@@ -5,4 +5,4 @@ I have mostly compleated 1 chapter in one of the pathways, but I will be working
 My story centers around a group of 6 friends. Each having their own roles in the group and have their own issues and stories.
 
 Your choices matter, so choose wisely. But remember, knowledge may make the truth hurt more...
-Have fun!!  (/◕ヮ◕)/
+Have fun!!(/◕ヮ◕)/
