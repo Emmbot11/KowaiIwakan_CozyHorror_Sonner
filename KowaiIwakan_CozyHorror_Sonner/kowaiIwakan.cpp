@@ -2,11 +2,9 @@
 #include "GameManager.h" 
 
 /***********************************
-* Emma Sonner
-*
 * Cozy Horror Game - Kowai Iwakan
 *
-* 5-XX-2026
+* 5-14-2026
 *
 * V. 1.0
 *
