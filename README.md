@@ -1,4 +1,4 @@
-Hello! This is a Cozy Horror game made for a highschool class as our final project!
+Hello! This is a Cozy Horror game made as the final project for a class!
 I am planning on making it accessable to both Mac and Linux useres soon, but currently only Windows is able to play this game.
 I have mostly compleated 1 chapter in one of the pathways, but I will be working on this intermitently so please be on the lookout for updates!
 
